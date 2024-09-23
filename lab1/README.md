@@ -2,4 +2,4 @@
 
 Lab 1
 
-![Lab 1](lab1/web.png)
+![Lab](lab1/web.png)
