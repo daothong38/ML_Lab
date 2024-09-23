@@ -1,6 +1,11 @@
 # ML_Lab_2
 
-<h2>Câu 1:<h2>
-Đánh giá mô hình Bernoulli, Multinomial và kết quả dự đoán của 2 mô hình:
+Câu 1:
+Đánh giá mô hình và kết quả dự đoán của 2 mô hình:
 
-![Lab2](ket_qua_du_doan.png)
+![Cau1](cau1.png)
+
+Câu 2:
+Đánh giá mô hình
+
+![Cau2](cau2.png)
