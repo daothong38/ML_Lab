@@ -12,7 +12,9 @@
 
 ## 3. Hiển thị kết quả lên website:
 
-![Ketquaweb](web.png)
+![Ketquaweb1](web1.png)
+
+![Ketquaweb2](web2.png)
 
 ## 4. So sánh 2 của 2 phân phối Bernoulli và Multinomial, Đánh giá mô hình phân phối Gaussian:
 
