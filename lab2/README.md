@@ -12,8 +12,17 @@
 
 ## 3. Hiển thị kết quả lên website:
 
+![Ketquaweb](web.png)
+
+Đánh giá:
+ - Câu 1:
+
 ![Cau1](cau1.png)
+
+ - Câu 2:
+
+![Cau2](cau2.png)
 
 ## 4. So sánh 2 của 2 phân phối Bernoulli và Multinomial
 
-![Cau2](cau2.png)
+
