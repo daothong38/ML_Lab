@@ -2,7 +2,7 @@
 Lab 1
 
 <h1>1. Công nghệ sử dụng:<h1>
-Framework: numpy, matplotlib.pyplot
+<body>Framework: numpy, matplotlib.pyplot<body>
 <h1>2. Hiển thị kết quả:<h1>
 
 ![Lab](web.png)
