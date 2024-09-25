@@ -1,5 +1,5 @@
 <div align = center>
-ML_Lab_2
+<h1>ML_Lab_2</h1>
 </div>
 
 ## 1. Công nghệ sử dụng:
