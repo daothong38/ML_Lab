@@ -1,8 +1,9 @@
-# ML_Lab_1
-Lab 1
+<div align = center>
+<h1>ML_Lab_1</h1>
+</div>
 
-<h1>1. Công nghệ sử dụng:<h1>
-<body>Framework: numpy, matplotlib.pyplot<body>
-<h1>2. Hiển thị kết quả:<h1>
+## 1. Công nghệ sử dụng:
+ - Framework: numpy, matplotlib.pyplot
+## 2. Hiển thị kết quả:
 
 ![Lab](web.png)
