@@ -8,7 +8,7 @@
 
 ## 2. Thuật toán:
 
- - KNN (K Nearest Neighbors)
+ - Centroid KNN (K Nearest Neighbors)
 
 ## 3. Hiển thị kết quả lên website:
 
