@@ -14,7 +14,7 @@
 
 ![Ketquaweb1](web1.png)
 
-## 4. So sánh 2 của 2 phân phối Bernoulli và Multinomial, Đánh giá mô hình phân phối Gaussian:
+## 4. Kết quả của 3 bài tập lab 3:
 
  - Centroid:
 
